@@ -3,7 +3,7 @@
 
 | SL No: | Description                                 | Link                                      |
 | ------ | ------------------------------------------- |-------------------------------------------|
-| 1      | Color palette                               | https://coolors.co/palettes/trending      |
+| 1      | Color Palette                               | https://coolors.co/palettes/trending      |
 | 2      | Live Server                                 |
 | 3      | ESLint                                      |
 | 4      | Auto Close Tag                              |
